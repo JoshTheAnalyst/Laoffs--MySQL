@@ -141,38 +141,3 @@ SELECT company, industry, total_laidoff, funds_in_millions, layoffs_reported
 FROM company_count
 WHERE layoffs_reported > 1
 ORDER BY layoffs_reported DESC;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
